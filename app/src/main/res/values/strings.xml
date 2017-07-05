@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adyen Demo app</string>
+    <string name="locationPermissionError">We need location permission for this app.</string>
+    <string name="permission_required">We need location permission for this app.</string>
+    <string name="emptyList">No venues found</string>
+    <string name="title">Venues around</string>
+    <string name="defaultLocation">Default location: around Adyen</string>
+    <string name="locating">Locating...</string>
+    <string name="located">Located!</string>
+
+</resources>
